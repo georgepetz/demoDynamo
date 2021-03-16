@@ -1,2 +1,0 @@
-# demoDynamo
-demo dynamo
