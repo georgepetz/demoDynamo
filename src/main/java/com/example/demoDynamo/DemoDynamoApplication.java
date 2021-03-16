@@ -8,6 +8,7 @@ public class DemoDynamoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoDynamoApplication.class, args);
+
 	}
 
 }
