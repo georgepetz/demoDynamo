@@ -1,1 +1,10 @@
+com\example\demoDynamo\dao\impl\UserCrudDaoImpl.class
+com\example\demoDynamo\controller\MoviesController.class
+com\example\demoDynamo\dao\UserCrudDao.class
+com\example\demoDynamo\service\UserCrudService.class
+com\example\demoDynamo\config\DynamoDBConfig.class
+com\example\demoDynamo\controller\UserCrudController.class
 com\example\demoDynamo\DemoDynamoApplication.class
+com\example\demoDynamo\dto\User$UserBuilder.class
+com\example\demoDynamo\dto\User.class
+UserCrudServiceImpl.class
